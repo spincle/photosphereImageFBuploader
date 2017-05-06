@@ -15,6 +15,3 @@ The method used
 
 
 
-
-
-
